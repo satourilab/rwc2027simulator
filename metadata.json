@@ -1,0 +1,5 @@
+{
+  "name": "RWC 2027 Simulator",
+  "description": "A simulation tool for the Rugby World Cup 2027 tournament progression, featuring pool stages management and AI-powered knockout match simulations.",
+  "requestFramePermissions": []
+}
